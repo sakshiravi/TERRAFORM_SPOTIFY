@@ -16,44 +16,44 @@ Before you dive in, make sure you have the following set up:
 5. **Spotify Provider for Terraform**: Install and configure the [Spotify Provider for Terraform](https://registry.terraform.io/providers/conradludgate/spotify/latest).
 6. **VS Code Editor**: Recommended for editing and managing Terraform files. [Download VS Code](https://code.visualstudio.com/).
 
-## 📋 Steps to Complete the Project
+**📋 Steps to Complete the Project**
 
 Follow these steps to automate your Spotify playlists:
 
-### 1. **Creating Terraform Code**
+**1. **Creating Terraform Code****
    - Start by defining your Terraform configuration files. Specify the provider, and set up the resources for your playlists.
 
-### 2. **Define Provider**
+**2. **Define Provider****
    - Use the Spotify provider in Terraform to interact with your Spotify account.
 
-### 3. **Need API Key**
+**3. **Need API Key****
    - Obtain the API key by authenticating with your Spotify Developer account.
 
-### 4. **Start with App Creation**
+**4. **Start with App Creation****
    - Create a new application on the Spotify Developer Dashboard. This will give you the necessary Client ID and Client Secret.
 
-### 5. **Enter Details**
+**5. **Enter Details****
    - Input your Spotify application's Client ID and Secret in your Terraform configuration.
 
-### 6. **Run the Spotify Auth App and Get the API Key**
+**6. **Run the Spotify Auth App and Get the API Key****
    - Use Docker to run a Spotify Auth app that will help you generate the API key required for Terraform.
 
-### 7. **Continue Creating Terraform Code**
+**7. **Continue Creating Terraform Code****
    - With the API key in hand, finalize your Terraform code. Define the playlists, tracks, and any other resources you need.
 
-### 8. **Initialize and Apply Terraform Configuration**
+**8. **Initialize and Apply Terraform Configuration****
    - Initialize your Terraform workspace and apply the configuration to create your playlists.
 
-### 9. **Verify Playlists on Spotify**
+**9. **Verify Playlists on Spotify****
    - Check your Spotify account to see the newly created playlists. Customize them further as needed!
 
-## 🎉 Project Benefits
+**🎉 Project Benefits**
 
 - **Time-Saving**: Automate the repetitive task of playlist creation.
 - **Consistency**: Ensure all your playlists follow a similar structure and theme.
 - **Scalability**: Easily manage and update multiple playlists across your Spotify account.
 
-## 🙌 Acknowledgments
+**🙌 Acknowledgments**
 Special thanks to the Terraform and Spotify teams for providing the tools to make this project possible.
 
 - Special thanks to the [Terraform](https://www.terraform.io/) and [Spotify](https://www.spotify.com/) teams for providing the tools to make this project possible.
