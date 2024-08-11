@@ -1,4 +1,5 @@
-**🎵 Terraform Spotify Playlist Automation**
+**🎵 Terraform Spotify Playlist Automation🎵 **
+
 Automate the creation and management of your Spotify playlists for different occasions using Terraform! Whether it's a serene morning, a relaxing evening, or an electrifying party night, this project will help you manage your playlists effortlessly.
 
 **🚀 Project Overview**
