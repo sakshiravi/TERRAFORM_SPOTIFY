@@ -59,7 +59,3 @@ Follow these steps to automate your Spotify playlists:
 Special thanks to the Terraform and Spotify teams for providing the tools to make this project possible.
 
 - Special thanks to the [Terraform](https://www.terraform.io/) and [Spotify](https://www.spotify.com/) teams for providing the tools to make this project possible.
-
----
-
-Feel free to customize this template further according to your project's specific needs!
